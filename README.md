@@ -1,13 +1,12 @@
-# rune_generator
+# Rune Generator
 
-It's a Rune Generator ... for nothing ... feel free to use/change it 
+A simple project for generating pseudo-random Runes.
 
+# Run
+-Programming Language: [Processing](https://processing.org/download/)
 
-Programming Language: Processing 
-                      https://processing.org/download/
+-Sign.pde :
+  - The main file.
 
-Sign.pde :
-The publish version.
-
-V1，2 .pde :
-Backups for each version.
+- V1，2 .pde :
+  - Backups for older version.
