@@ -3,7 +3,7 @@
 A simple project for generating pseudo-random Runes.
 
 # Run
--Programming Language: [Processing](https://processing.org/download/)
+-Require Environment: [Processing](https://processing.org/download/)
 
 -Sign.pde :
   - The main file.
